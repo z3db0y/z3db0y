@@ -27,4 +27,6 @@
   <h1>Operating Systems</h1>
   <img src="https://img.shields.io/badge/Windows 11-0078D4?style=for-the-badge&logo=windows11&logoColor=white">
   <img src="https://img.shields.io/badge/Arch Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
+  <h1></h1>
+  <img src="https://komarev.com/ghpvc/?username=z3db0y&color=EF3F49&style=for-the-badge&label=Profile Views">
 </div>
