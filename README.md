@@ -1,19 +1,30 @@
-# Fullstack Node.JS Developer
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=z3db0y&bg_color=00000000&hide_title=true&hide_border=true&text_color=08F)]()  
-Discord.JS project:  
-[![Discord.JS Quick Start](https://github-readme-stats.vercel.app/api/pin/?username=z3db0y&repo=discordjs-quick-start-v2&bg_color=00000000&hide_title=true&border_color=00000000&text_color=08F)](https://github.com/z3db0y/discordjs-quick-start-v2)  
-Electron.JS project (no source):  
-[![RAYS Client](https://github-readme-stats.vercel.app/api/pin/?username=z3db0y&repo=rays-client&bg_color=00000000&hide_title=true&border_color=00000000&text_color=08F)](https://github.com/z3db0y/rays-client)
-
-## I also do [First Tech Challenge](https://www.firstinspires.org/robotics/ftc) (in a team)
-[![FTC Repo](https://github-readme-stats.vercel.app/api/pin/?username=evangelospro&repo=FTC22_CODE&bg_color=00000000&hide_title=true&border_color=00000000&text_color=08F)](https://github.com/evangelospro/FTC22_CODE)
-
-## Contact me:
-Discord: [Profile](https://discord.com/users/740167253491843094) | [Guild](https://discord.gg/C4k9uVnPwP)  
-Instagram: [@z3db0y__](https://instagram.com/z3db0y__/)  
-Twitter: [@z3db0y](https://twitter.com/z3db0y)  
-
-## Websites I made:
-[Personal](https://z3db0y.com) | [[RAYS] Clan](https://raysclan.xyz) | [Poseidon (game for GDC.cy)](https://poseidon.cy)
-
-Coding since late 2019™
+<div align="center">
+  <img width="100%" src="https://github.com/z3db0y/z3db0y/assets/69466123/b3399122-dfc3-4ef0-b339-41c4c4f53a0a">
+  <h1>Social</h1>
+  <a href="https://discord.com/users/740167253491843094">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://twitter.com/z3db0y">
+    <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <h1>Tools</h1>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VSCode-22AAF3?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  </a>
+  <a href="https://www.jetbrains.com/idea/">
+    <img src="https://img.shields.io/badge/IntelliJ IDEA-F62B55?style=for-the-badge&logo=intellijidea&logoColor=white">
+  </a>
+  <a href="https://developer.android.com/studio">
+    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  </a>
+  <a href="https://github.com/microsoft/terminal">
+    <img src="https://img.shields.io/badge/Windows Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white">
+  </a>
+  <h1>Languages</h1>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333333">
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA-EB2027?style=for-the-badge&logo=java&logoColor=white">
+  <h1>Operating Systems</h1>
+  <img src="https://img.shields.io/badge/Windows 11-0078D4?style=for-the-badge&logo=windows11&logoColor=white">
+  <img src="https://img.shields.io/badge/Arch Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
+</div>
