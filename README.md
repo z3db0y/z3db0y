@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333333">
   <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-EB2027?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
   <h1>Operating Systems</h1>
   <img src="https://img.shields.io/badge/Windows 11-0078D4?style=for-the-badge&logo=windows11&logoColor=white">
   <img src="https://img.shields.io/badge/Arch Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
