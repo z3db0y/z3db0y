@@ -11,6 +11,9 @@
   <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/VSCode-22AAF3?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   </a>
+  <a href="https://visualstudio.microsoft.com/">
+    <img src="https://img.shields.io/badge/Visual Studio-A779DC?style=for-the-badge&logo=visualstudio&logoColor=white">
+  </a>
   <a href="https://www.jetbrains.com/idea/">
     <img src="https://img.shields.io/badge/IntelliJ IDEA-F62B55?style=for-the-badge&logo=intellijidea&logoColor=white">
   </a>
