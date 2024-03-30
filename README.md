@@ -17,6 +17,9 @@
   <a href="https://www.jetbrains.com/idea/">
     <img src="https://img.shields.io/badge/IntelliJ IDEA-F62B55?style=for-the-badge&logo=intellijidea&logoColor=white">
   </a>
+  <a href="https://www.jetbrains.com/go/">
+    <img src="https://img.shields.io/badge/IntelliJ GoLand-000000?style=for-the-badge&logo=goland&logoColor=white">
+  </a>
   <a href="https://developer.android.com/studio">
     <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   </a>
@@ -28,6 +31,7 @@
   <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-EB2027?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/GOLANG-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   <h1>Operating Systems</h1>
   <img src="https://img.shields.io/badge/Windows 11-0078D4?style=for-the-badge&logo=windows11&logoColor=white">
   <img src="https://img.shields.io/badge/Arch Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
