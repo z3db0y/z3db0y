@@ -1,5 +1,3 @@
-<img width="100%" src="https://github.com/z3db0y/z3db0y/assets/69466123/b3399122-dfc3-4ef0-b339-41c4c4f53a0a">
-
 ![](https://github-readme-stats.vercel.app/api?username=z3db0y&theme=default&show_icons=true&hide_border=true&count_private=true)
 
 # Social
